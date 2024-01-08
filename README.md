@@ -1,5 +1,5 @@
 # Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![68747470733a2f2f692e6962622e636f2f39796b684c744d2f5468756d626e61696c2e706e67](https://github.com/monkeid/3D-Website-portfolio-2023/assets/146010192/84866128-501f-4b53-a17c-91b691feaf16)
+
 # introduction
 The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
 
